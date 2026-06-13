@@ -1,1 +1,7 @@
-This repo consists of some important topics on Java that I practice. 
+This repo consist of the code of the different algorithms in java.
+
+src-
+  -CoreJava
+  -recursion
+  -Searching
+  -sorting
