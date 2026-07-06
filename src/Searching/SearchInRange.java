@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class SearchInRange {
-    public static void main(String[] args){
+    static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter size of array: ");
         int size = scanner.nextInt();
