@@ -1,10 +1,9 @@
 package sorting;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class bubbleSort {
-    public static void main(String[] args){
+    static void main(String[] args){
         int[] arr = {5,1,6,4};
         System.out.println(Arrays.toString(Sort(arr)));
     }
